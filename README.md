@@ -1,4 +1,4 @@
-# Chronos — Biblical Timeline Explorer
+# Kronos — Biblical Timeline Explorer
 
 An interactive educational tool for exploring the story of Scripture from the Patriarchs through the early Church, set within the context of world history. Trace how Old Testament events connect to New Testament fulfillments, how doctrine developed through the Church Fathers, and how biblical history intersects with the rise and fall of empires.
 

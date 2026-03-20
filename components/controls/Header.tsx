@@ -35,7 +35,7 @@ export default function Header({
           className="text-xl font-bold tracking-tight shrink-0"
           style={{ fontFamily: 'var(--font-heading)' }}
         >
-          Chronos
+          Kronos
         </h1>
 
         <div className="flex items-center gap-3">

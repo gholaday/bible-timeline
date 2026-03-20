@@ -3,7 +3,7 @@
 - Always use frontend-designer skill when creating or editing UI
 - Use framer motion for animations
 
-# Chronos — Biblical Timeline Explorer
+# Kronos — Biblical Timeline Explorer
 
 ## Stack
 

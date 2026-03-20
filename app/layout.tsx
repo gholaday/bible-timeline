@@ -27,7 +27,7 @@ const dmMono = DM_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Chronos — Biblical Timeline Explorer",
+  title: "Kronos — Biblical Timeline Explorer",
   description:
     "Explore the story of Scripture from Abraham to the early Church. See how the Old and New Testaments connect across the centuries, set within real human history.",
 };
